@@ -1,15 +1,10 @@
-body{ 
-   font-size: 24px;
-   font-family: 'Segoe UI';
-   text-align: center;
-   color:#1a3147;
-   background-color: #9bc9e6;
+main {
+    border: 5px solid brown;
+    width: 50%;
 }
-div {
-   height: 500px;
-   border: 3px solid
-   red;
-   background: url('https://images.pexels.com/photos/1115358/pexels-photo-1115358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
-   background-repeat: no-repeat;
-   
+
+section {
+    border: 5px dashed green;
+    width: 50%;
+
 }
