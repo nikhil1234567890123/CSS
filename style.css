@@ -1,10 +1,13 @@
-main {
-    border: 5px solid brown;
-    width: 50%;
+*{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
 }
-
-section {
-    border: 5px dashed green;
-    width: 50%;
-
+.box {
+    width: 200px;
+    height: 200px;
+    border: 20px solid blueviolet;
+    padding:30px ;
+    margin: 40px;
 }
